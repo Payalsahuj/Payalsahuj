@@ -35,7 +35,7 @@
 
 - 🧠 I’m currently learning **Redux**
 
-- 📝 I regularly write articles on Technology.
+- 📝 I regularly read articles on Technology.
 
 - 💬 Ask me about **react, vanilla javascript**
 
