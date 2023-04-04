@@ -21,7 +21,7 @@
 <!-- <div align="right" ><iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr"></a></p></div> -->
 </div>
 
-<div align="center" style="padding: 15px;">
+<div align="center" style="padding: 15px 20px;">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tilt+Neon&weight=800&size=29&pause=1000&color=2196F3&background=82FF4A00&width=435&lines=I+am+a+Full+Stack+Web+Developer;I+love+Coding;Hope+to+get+in+touch+" alt="Typing SVG" /></a>
     </div>
 
