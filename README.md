@@ -6,7 +6,7 @@
 
 
 
-<div  style="background-image: url('https://readme.com/static/img/home/footer-confetti-background.png');padding: 10px; " ><img src="https://www.knowledgelens.com/images/schedule-demo-desk.png" width="70%" style=" margin='auto'; height="300px"; padding='60px'" / ></div>
+<div  style="background-image: url('https://readme.com/static/img/home/footer-confetti-background.png');padding: 10px; " ><img src="https://www.knowledgelens.com/images/schedule-demo-desk.png" width="70%" style=" margin='auto'; height="250px"; padding='60px'" / ></div>
 
 <div style='display: flex; justify-content: space-around; '  >
 <div align="left" style="padding-top: 20px;text-align: center;" >
