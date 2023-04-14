@@ -6,12 +6,12 @@
 
 
 
-<div  style="background-image: url('https://readme.com/static/img/home/footer-confetti-background.png');padding: 10px; " ><img src="https://www.bing.com/th/id/OGC.bfe7c3ec69bf379f62a5de6a34acdc5d?pid=1.7&rurl=https%3a%2f%2fmiro.medium.com%2fmax%2f1400%2f1*qdAW1TjCN57h1lbuuzvchg.gif&ehk=w7OIa913DGrDOfbARBfao2orIGNsejbu%2fLu1qfTbQcM%3d" width="70%" style=" margin='auto'; height="250px"; padding='60px'" / ></div>
+<div align="center" style="background-image: url('https://readme.com/static/img/home/footer-confetti-background.png');padding: 10px; " ><img src="https://www.bing.com/th/id/OGC.bfe7c3ec69bf379f62a5de6a34acdc5d?pid=1.7&rurl=https%3a%2f%2fmiro.medium.com%2fmax%2f1400%2f1*qdAW1TjCN57h1lbuuzvchg.gif&ehk=w7OIa913DGrDOfbARBfao2orIGNsejbu%2fLu1qfTbQcM%3d" width="70%" style=" margin='auto'; height="250px"; padding='60px'" / ></div>
 
 <div style='display: flex; justify-content: space-around; '  >
 <div align="left" style="padding-top: 20px;text-align: center;" >
-<h1 align="left" margin='20px' >Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Payal Sahu </h1>
-<h3 align="left" margin='20px' >A passionate and aspiring Full Stack developer from India</h3>
+<h1 align="center" margin='20px' >Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Payal Sahu </h1>
+<h3 align="center" margin='20px' >A passionate and aspiring Full Stack developer from India</h3>
 <p align="center" style="width: 30px; margin-left: 30%; margin-top: 30px;"    > <img style="width: 150px;" src="https://komarev.com/ghpvc/?username=Payalsahuj&label=Profile%20views&color=0e75b6&style=flat" alt="Payalsahuj" /> </p>
 
 </div>
@@ -31,7 +31,7 @@
    
 
 
-<p align="left" style=' width:"90%"; margin: auto; padding: 30px; '> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Payalsahuj" alt="Payalsahuj" /></a> </p>
+<p align="center" style=' width:"90%"; margin: auto; padding: 30px; '> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Payalsahuj" alt="Payalsahuj" /></a> </p>
 
 - 🧠 I’m currently learning **Redux**
 
@@ -67,7 +67,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="payal" />
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Payalsahuj&" alt="Payalsahuj" /></p>
+<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Payalsahuj&" alt="Payalsahuj"  /></p></div>
 
 
 
