@@ -68,7 +68,10 @@
 
 
 <div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Payalsahuj&" alt="Payalsahuj"  /></p></div>
-
+  <div>
+        <img  src="https://github-readme-stats.vercel.app/api?username=payalsahuj&show_icons=true&bg_color=00000000" alt='' />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payalsahuj&layout=compact" width="420px" alt=''/>
+  </div>
 
 
 
