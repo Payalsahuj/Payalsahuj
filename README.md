@@ -68,9 +68,10 @@
 
 
 <div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Payalsahuj&" alt="Payalsahuj"  /></p></div>
-  <div style="display: flex; align-items: center; justify-content: center;">
-        <img  src="https://github-readme-stats.vercel.app/api?username=payalsahuj&show_icons=true&bg_color=00000000" alt='' />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payalsahuj&layout=compact" width="420px" alt=''/>
+
+  <div style="display: flex; align-items: center; justify-content: center;" width="100%">
+        <img  src="https://github-readme-stats.vercel.app/api?username=payalsahuj&show_icons=true&bg_color=00000000" width="50%" alt='' />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payalsahuj&layout=compact" width="50%" alt=''/>
   </div>
 
 
