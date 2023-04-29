@@ -43,6 +43,8 @@
 
 - 📫 How to reach me **sahupayal220@gmail.com**
 
+- 🫠 Know more about me **https://payalsahuj.github.io/**
+
 
 
 <h3 align="left">Connect with me:</h3>
