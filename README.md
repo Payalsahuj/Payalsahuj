@@ -26,9 +26,6 @@
     </div>
 
 
-<img width="90%" height="180px" margin="'auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/0c696763393359.5ab4ecb5ec40c.gif" alt="">
-
-   
 
 
 <p align="center" style=' width:"90%"; margin: auto; padding: 30px; '> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Payalsahuj" alt="Payalsahuj" /></a> </p>
@@ -64,9 +61,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="payal" />
 
- <div h='5cm'><img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt=""></div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="payal" />
+
+
 
 
 <div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Payalsahuj&" alt="Payalsahuj"  /></p></div>
