@@ -66,7 +66,7 @@
 
 
 
-<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Payalsahuj&" alt="Payalsahuj"  /></p></div>
+<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Payalsahuj&theme=gotham" alt="Payalsahuj"  /></p></div>
 
   <div style="display: flex; flex-direction:"row"; align-items: center; justify-content: center;" width="100%">
         <img style="display:'block';" src="https://github-readme-stats.vercel.app/api?username=payalsahuj&show_icons=true&bg_color=00000000" alt='' />
