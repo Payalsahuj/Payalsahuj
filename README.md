@@ -12,7 +12,7 @@ Passionate about building cool stuff for the web, solving problems, and explorin
 - 💬 Let’s Talk Tech: Always happy to discuss web dev, AI, and new ideas!
 
 ### 📚 What I'm Working On
-- 📖 Backend with Go: Strengthening my GoLang skills for high-performance applications.
+<!-- - 📖 Backend with Go: Strengthening my GoLang skills for high-performance applications. -->
 - 💻 AI + Web: Exploring RAG (Retrieval-Augmented Generation) and its real-world applications.
 - 🌱 Leveling Up: Constantly improving and expanding my development skills.
 
